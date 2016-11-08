@@ -1,0 +1,192 @@
+#logo
+{
+	height:80px;
+	width:200px;
+	
+}
+.main{
+	background-color:#0489B1;
+	width: 960px;
+	position: fixed;
+	padding-left: 0px;
+	margin-left: 0px;
+}
+
+.main3{
+	background-color:rgb(194,214,214);
+	margin-bottom: 10px;
+
+}
+.main2{
+	margin-top: 90px;
+}
+.main4{
+	background-color:rgb(214,137,16);
+}
+.main8
+{
+	margin-bottom: 10px;
+
+}
+.main9
+{
+	margin-bottom: 30px;
+}
+
+nav li
+{
+	display: inline;
+	font-family: 'Bitter', serif;
+	font-family: 'Abril Fatface', cursive;
+	color:rgb(123,36,28);
+	font-size: 120%;   
+}
+
+nav ul{
+	margin-left:270px;
+}
+
+a:hover
+
+{
+	color:red;
+	text-decoration: underline;
+}
+p
+{
+	font-size: 50%;
+	color:rgb(0,0,128);
+	font-style: monospace;
+	font-family: 'Italianno', cursive;
+	font-family: 'Merienda', cursive;
+	text-align: justify;
+	margin-top: 10px;
+}
+.main20
+{
+	background:#F3A098;
+	
+}
+#imgi
+{
+	margin-bottom: 10px;
+	width: 955px;
+	margin-left: 2px;
+}
+#imgk
+{
+	height:460px;
+	width:500px;
+}
+#imgj
+{
+	height:400px;
+	width:300px;
+}
+#imgsk,#imgg
+{
+	height:200px;
+	width:300px;
+	
+}
+#imgl
+{
+	height:380px;
+	width:300px;
+
+}
+
+#imgt,#imgd,#imgb
+{
+	margin-left: 250px;
+}
+h3
+{
+	margin-top: 20px;
+	margin-left: 20px;
+	font size:50%;
+}
+h5
+{
+	margin-top: 20px;
+	margin-left: 22px;
+
+}
+h2
+{
+	margin-left: 20px;
+	color:rgb(0,51,0);
+	font-family: 'Fjalla One', sans-serif;
+}
+h1
+{
+	font-family: 'Fjalla One', sans-serif;
+	color: rgb(128,0,0);
+}
+h4
+{
+	font-family: 'Gloria Hallelujah', cursive;
+	font-family: 'Basic', sans-serif;
+	color: rgb(0,0,255);
+
+}
+footer li
+{
+	list-style:none;
+	font-size: 80%;
+	font-family: 'Mada', sans-serif;
+}
+a{
+	text-decoration: none;
+	display: inline;
+
+}
+
+h6
+{
+	font-size: 50%;
+}
+#imgw
+{
+	height:130;
+	width:400;
+	margin-left: 300px;
+}
+#imgn
+{
+	height:200px;
+	width:250px;
+	
+}
+#imgo
+{
+	height:230px;
+	width:280px;
+	
+}
+#imgp
+{
+	height:230px;
+	width:265px;
+	
+}
+
+
+#imgq
+{
+	height:200px;
+	width:220px;
+	
+}
+#imgr
+{
+	height:200px;
+	width:265px;
+	
+}
+#imgs
+{
+	height:200px;
+	width:265px;
+	
+}
